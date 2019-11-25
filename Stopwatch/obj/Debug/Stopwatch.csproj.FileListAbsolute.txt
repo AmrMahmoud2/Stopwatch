@@ -1,0 +1,9 @@
+E:\B\College\Biomedical\Fourth year\First semester\Networks\Tasks&Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+E:\B\College\Biomedical\Fourth year\First semester\Networks\Tasks&Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojResolveAssemblyReference.cache
+E:\B\College\Biomedical\Fourth year\First semester\Networks\Tasks&Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.StopWatch.resources
+E:\B\College\Biomedical\Fourth year\First semester\Networks\Tasks&Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+E:\B\College\Biomedical\Fourth year\First semester\Networks\Tasks&Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.Cache
+E:\B\College\Biomedical\Fourth year\First semester\Networks\Tasks&Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+E:\B\College\Biomedical\Fourth year\First semester\Networks\Tasks&Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+E:\B\College\Biomedical\Fourth year\First semester\Networks\Tasks&Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+E:\B\College\Biomedical\Fourth year\First semester\Networks\Tasks&Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
